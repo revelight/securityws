@@ -1,0 +1,6 @@
+allow666in in 10.1.1.1/24 any any any 6666 any accept
+allow666out out any 10.1.1.1/24 any any 6666 any accept
+block20all any any any any any 20 any drop
+allow21all any any any any any 21 any accept
+default in 10.1.1.1/24 any any any any any drop
+default out 10.1.2.2/24 any any any any any drop
