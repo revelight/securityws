@@ -16,3 +16,4 @@ This project was done individualy as the chief assignment for the course,
 over 1.5 semesters in Tel Aviv University.
 
 
+Checking out the presentation is recommended.
