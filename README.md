@@ -1,8 +1,6 @@
 Security Workshop 2018
 
-Tel Aviv University
-
-Check Point Ltd.
+Tel Aviv University / Check Point Ltd.
 
 
 A miniature version of a real world firewall,
